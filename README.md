@@ -1,7 +1,7 @@
 # JUNE
 JUNE - individual-based epidemiological model
 
-This is the offical repository of JUNE, named after June Almeida, who was the female Scottish virologist that first identified the coronavirus group of viruses. A paper introducing our modelling framework in the case of modelling the spread of COVID-19 in England has been published in Royal Society Open Science.
+This is the offical repository of JUNE, named after [June Almeida](https://en.wikipedia.org/wiki/June_Almeida), who was the female Scottish virologist that first identified the coronavirus group of viruses. A paper introducing our modelling framework in the case of modelling the spread of COVID-19 in England has been published in [Royal Society Open Science](https://royalsocietypublishing.org/doi/full/10.1098/rsos.210506).
 
 Please cite our paper as follows:
 
