@@ -5,6 +5,7 @@ This is the offical repository of JUNE, named after June Almeida, who was the fe
 
 Please cite our paper as follows:
 
+```
 @article{doi:10.1098/rsos.210506,
   author = {Aylett-Bullock, Joseph  and Cuesta-Lazaro, Carolina  and Quera-Bofarull, Arnau  and Icaza-Lizaola, Miguel  and Sedgewick, Aidan  and Truong, Henry  and Curran, Aoife  and Elliott, Edward  and Caulfield, Tristan  and Fong, Kevin  and Vernon, Ian  and Williams, Julian  and Bower, Richard  and Krauss, Frank },
   title = {June: open-source individual-based epidemiology simulation},
@@ -17,5 +18,7 @@ Please cite our paper as follows:
   URL = {https://royalsocietypublishing.org/doi/abs/10.1098/rsos.210506},
   eprint = {https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.210506},
 }
+
+```
 
 To reproduce the plots to that paper vist our paper plots repository.
